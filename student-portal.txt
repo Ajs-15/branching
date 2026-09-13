@@ -1,6 +1,6 @@
 
 Student Portal
-Welcome to the  university Student Portal
+Welcome to the University Online Student Portal
 
 Login Feature
 Students can log in using their university credentials.
